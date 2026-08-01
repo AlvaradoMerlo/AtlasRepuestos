@@ -1,0 +1,28 @@
+PROYECTO ATLAS REPUESTOS
+
+Contenido:
+- 10 páginas HTML
+- 1 archivo CSS externo
+- 1 archivo JavaScript externo
+- Diseño responsivo
+- Validación de formulario
+- Menú para celular
+- Filtro de productos
+- Preguntas frecuentes desplegables
+
+Páginas:
+1. index.html
+2. nosotros.html
+3. productos.html
+4. servicios.html
+5. marcas.html
+6. galeria.html
+7. promociones.html
+8. blog.html
+9. contacto.html
+10. faq.html
+
+Cómo abrir:
+1. Descomprimir la carpeta.
+2. Abrirla en Visual Studio Code.
+3. Abrir index.html con Live Server o directamente en el navegador.
